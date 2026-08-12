@@ -1,4 +1,4 @@
-## Hi there 👋
+## Jai shree mahakaal 👋
 
 <!--
 **palkisharma06-jpg/palkisharma06-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

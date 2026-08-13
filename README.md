@@ -1,74 +1,70 @@
 <div align="center">
-  # hi, I'm Palak Sharma
-BCA Student | Aspiring Cybersecurity Professional | Web Developer
-  
-Welcome to my GitHub profile! I'm a BCA student with a strong interest in Cybersecurity, Web Development, and Software Development. I enjoy learning new technologies and building practical projects that solve real-world problems.
+  Hi, I'm Palak  Sharma 👋
+BCA Student | Cybersecurity Enthusiast | Web Developer
 
-👩‍💻 About Me
-🎓 Currently pursuing BCA
-💻 Skilled in HTML and CSS
-🌐 Learning JavaScript
-🔐 Aspiring Cybersecurity Professional
-🐍 Learning Python
-💡 Curious about new technologies
-🎯 Goal: Build a career in Cybersecurity
+🎓 I am a BCA student with a strong interest in Cybersecurity, Web Development, and Programming.
+
+💻 I enjoy building projects, exploring new technologies, and improving my technical skills through practical learning.
+
+🛡️ My goal is to build a career in Cybersecurity and contribute to creating secure and reliable digital solutions.
+
+🚀 About Me
+🎓 Currently pursuing Bachelor of Computer Applications (BCA)
+🛡️ Interested in Cybersecurity & Web Security
+🌐 Interested in Web Development
+💻 Learning Python, C/C++, JavaScript
+🔐 Exploring cybersecurity concepts and secure coding
+📚 Always learning and improving my technical skills
+🎯 Career Goal: Cybersecurity Professional
 🛠️ Technical Skills
-Programming Languages
 
-C
-C++
-HTML
-CSS
-JavaScript (Learning)
-Python (Learning)
-Tools & Technologies
+Programming:
+C | C++ | Python | JavaScript
 
-Visual Studio Code
-GitHub
-Windows
-Linux (Learning)
-🚀 Featured Project
-CampusConnect
-Community Internship Management System
+Web Development:
+HTML | CSS | JavaScript
 
-A web-based application designed to manage community internship activities.
+Cybersecurity:
+Cybersecurity Fundamentals | Web Security | Security Awareness
 
-Planned Features:
+Tools:
+Git | GitHub | VS Code
 
-Student Login
-Attendance Management
-Daily Work Log
-Report Submission
-Certificate Management
-Faculty Dashboard
-Technologies:
+📂 Featured Projects
+🌐 Personal Portfolio
 
-HTML | CSS | JavaScript | PHP | MySQL
+A responsive personal portfolio website showcasing my skills, projects, education and achievements.
 
-🚧 Currently under development.
+Tech: HTML | CSS | JavaScript
 
-🔐 Cybersecurity Learning
-Currently exploring:
+🛡️ Cybersecurity Awareness Project
 
-Cybersecurity Fundamentals
-Web Application Security
-OWASP Top 10
-Secure Coding Practices
-Linux Basics
-Network Security
-📚 Learning Journey
-Technology	Status
-HTML	✅
-CSS	✅
-C / C++	✅
-JavaScript	🔄
-Python	🔄
-Git & GitHub	🔄
-Cybersecurity	🔄
-🎯 Career Objective
-My goal is to become a skilled Cybersecurity Professional with strong knowledge of secure software development and practical problem-solving skills
+A project focused on digital literacy and cybersecurity awareness, including online safety, phishing awareness, suspicious links and safe digital behaviour.
 
+💻 More Projects Coming Soon...
+
+I am continuously working on new projects to improve my programming and cybersecurity skills.
+
+📜 Certifications & Learning
+
+I am continuously learning through courses, certifications and practical projects related to:
+
+Cybersecurity
+Web Development
+Programming
+Digital Literacy
+Emerging Technologies
+📊 GitHub Goals
+
+🚀 Build more real-world projects
+🔐 Improve cybersecurity skills
+💻 Contribute to open-source projects
+📚 Keep learning new technologies
 
 📫 Connect With Me
-GitHub: @palkisharma06-jpg
-⭐ Thanks for visiting my profile!
+
+📧 Email: pslkisharma06@gmail.com
+
+💻 GitHub: You're already here! 😄
+
+⭐ “Learning today, building tomorrow.”

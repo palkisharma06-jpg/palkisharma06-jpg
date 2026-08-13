@@ -1,7 +1,9 @@
 <div align="center">
   Hi, I'm Palak  Sharma 👋
 BCA Student | Cybersecurity Enthusiast | Web Developer
-----
+  
+---
+
 🎓 I am a BCA student with a strong interest in Cybersecurity, Web Development, and Programming.
 
 💻 I enjoy building projects, exploring new technologies, and improving my technical skills through practical learning.

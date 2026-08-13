@@ -1,5 +1,5 @@
 <div align="center">
-  # hi, i'm Palak Sharma
+  # hi, I'm Palak Sharma
 BCA Student | Aspiring Cybersecurity Professional | Web Developer
 Welcome to my GitHub profile! I'm a BCA student with a strong interest in Cybersecurity, Web Development, and Software Development. I enjoy learning new technologies and building practical projects that solve real-world problems.
 👩‍💻 About Me
@@ -67,5 +67,5 @@ Cybersecurity	🔄
 My goal is to become a skilled Cybersecurity Professional with strong knowledge of secure software development and practical problem-solving skills.
 
 📫 Connect With Me
-GitHub: @vidhimalik21
+GitHub: @palkisharma06-jpg
 ⭐ Thanks for visiting my profile!
